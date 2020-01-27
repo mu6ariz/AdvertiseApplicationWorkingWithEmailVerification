@@ -1,0 +1,11 @@
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\bin\Debug\RegisterApp_11_11_2019.exe.config
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\bin\Debug\RegisterApp_11_11_2019.exe
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\bin\Debug\RegisterApp_11_11_2019.pdb
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.csprojAssemblyReference.cache
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.AccountForm.resources
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.Loginform.resources
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.RegisterForm.resources
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.Properties.Resources.resources
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.csproj.GenerateResource.cache
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.exe
+C:\Users\Microsoft Surface\source\repos\RegisterApp_11_11_2019\obj\Debug\RegisterApp_11_11_2019.pdb
